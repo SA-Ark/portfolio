@@ -21,13 +21,17 @@ Everything below is deployed, monitored, and serving real users right now.
 | Frontend quality gate | **Lighthouse 100** | deploys are blocked below it — a ratchet, not a goal |
 | Products launched | **14** (2026-07-04, one day) | each with payments, auth, and E2E gates |
 
-## What this buys you
+## The part worth imagining
 
-If you're a founder or an owner, the numbers above translate simply: **software that ships in
-days instead of quarters, stays up without a team babysitting it, and gets cheaper to run over
-time instead of more expensive.** The whole estate exists to prove one thing — AI-operated
-engineering, held to production discipline, lets one person deliver what used to take a
-department. Your project inherits that machinery from day one.
+Picture your company with an engineering force that never sleeps, never forgets a lesson, and
+never lets quality slip — not a department you hire, but machinery that already exists. An idea
+you describe over morning coffee is a working system before the week is out. Something breaks at
+3 a.m. and heals itself before anyone's phone lights up. The software gets *better* while you're
+not looking, because the discipline is built into the machines, not delegated to willpower.
+
+None of that is a pitch about the future. It's how every number on this page already happens,
+every day, in production. **Your project doesn't wait for that world — it steps into machinery
+that's already turning.**
 
 ## What's live (selection)
 
