@@ -1,12 +1,8 @@
 # The Estate
 
-**120+ production services. One engineer. This repo is the map.**
+A production software estate — search engines, evaluation tooling, multi-agent runtimes, and the infrastructure that runs them — built and operated end to end by one engineer.
 
-I design, build, and operate a full production software estate solo — AI products, media generation pipelines, orchestration infrastructure, and the machinery that keeps it all alive. Everything below is deployed, monitored, and serving real users right now.
-
-🔗 **Case studies, live demos, and engagement details: [ark.chakrakali.com](https://ark.chakrakali.com)**
-
----
+Everything below is deployed, monitored, and serving real users right now. Case studies, live demos, and engagement details live at **[ark.chakrakali.com](https://ark.chakrakali.com)**.
 
 ## By the numbers
 
@@ -18,11 +14,9 @@ I design, build, and operate a full production software estate solo — AI produ
 | AI memory store | **180,000+ memories** | 100% embedding coverage, 60K+ knowledge-graph edges, 1024-dim |
 | Frontend quality gate | **Lighthouse 100** | deploys are blocked below it — a ratchet, not a goal |
 
-## How to read this
+Every number is something a machine already does, every day, in production — not a roadmap. The estate self-heals, self-tests, and refuses to deploy anything that would lower the bar, because that discipline is wired into the pipeline rather than left to whoever's paying attention that day.
 
-Every number in that table is something a machine already does, every day, in production — not a roadmap. The estate self-heals, self-tests, and refuses to deploy anything that would lower the bar, because that discipline is wired into the pipeline rather than left to whoever's paying attention that day. If you're scoping work, that's the useful part: you're stepping into machinery that's already running, not commissioning it.
-
-## What's live (selection)
+## Selected work
 
 | Product | What it does |
 |---|---|
@@ -37,7 +31,7 @@ Every number in that table is something a machine already does, every day, in pr
 
 Full catalog with case studies → [ark.chakrakali.com](https://ark.chakrakali.com)
 
-## How one person runs this
+## How it runs
 
 ```mermaid
 graph TD
@@ -55,7 +49,7 @@ graph TD
     T[Telemetry + audit<br/>→ see aegis methodology] --> O
 ```
 
-The honest answer: agents do the labor, architecture does the discipline. A supervised AI agent fleet handles implementation under hard gates — tests, byte-verified deploys, Lighthouse ratchets, visual verification against production. The interesting engineering is the gates, not the agents.
+Agents do the labor, architecture does the discipline. A supervised AI agent fleet handles implementation under hard gates — tests, byte-verified deploys, Lighthouse ratchets, visual verification against production. The interesting engineering is the gates, not the agents.
 
 ## Engineering doctrine
 
@@ -64,17 +58,10 @@ The honest answer: agents do the labor, architecture does the discipline. A supe
 - **No silent failures.** Detect → confirm → recover → escalate loudly. Liveness by evidence, never by timeout.
 - **Quality is a ratchet.** Gates only tighten. A deploy that would lower the bar doesn't deploy.
 
-## Where's the source?
+## Links
 
-Product source is **private** — these are commercial systems with paying users. What's open:
-
-- [**scour**](https://github.com/SA-Ark/scour) — the retrieval primitives, full source, zero deps
-- [**aegis**](https://github.com/SA-Ark/aegis) — the production-audit CLI, full source
-- [**nexus**](https://github.com/SA-Ark/nexus) / [**mindvault**](https://github.com/SA-Ark/mindvault) — architecture showcases with live demos
-
-Happy to walk through any private codebase live in an interview or scoping call.
-
----
-
-**Building something?** I take a small number of fixed-price engagements →
-[ark.chakrakali.com](https://ark.chakrakali.com)
+- **Portfolio, case studies, engagement** → [ark.chakrakali.com](https://ark.chakrakali.com)
+- **[scour](https://github.com/SA-Ark/scour)** — zero-dependency hybrid search engine for Rust
+- **[aegis](https://github.com/SA-Ark/aegis)** — production-readiness audit CLI
+- **[crucible](https://github.com/SA-Ark/crucible)** — evaluation harness for LLM & RAG systems
+- **[nexus](https://github.com/SA-Ark/nexus)** / **[mindvault](https://github.com/SA-Ark/mindvault)** — multi-agent runtime & memory engine, with live demos
