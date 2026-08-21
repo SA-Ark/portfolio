@@ -1,6 +1,6 @@
 # The Estate
 
-**130+ production services. One engineer. This repo is the map.**
+**120+ production services. One engineer. This repo is the map.**
 
 I design, build, and operate a full production software estate solo — AI products, media
 generation pipelines, orchestration infrastructure, and the machinery that keeps it all alive.
@@ -14,12 +14,11 @@ Everything below is deployed, monitored, and serving real users right now.
 
 | Metric | Value | How it's kept honest |
 |---|---|---|
-| Production services | **130+** | live estate inventory, refreshed every 6h |
-| Uptime (supervised fleet) | **99.97%** | evidence-based liveness — no timeout guesswork |
-| Stall recovery | **~3 s** | automatic, streamed to an ops cockpit |
-| AI memory store | **158,000+ memories** | 100% embedding coverage, 48K knowledge-graph edges |
+| Production services | **120+** | live estate inventory, refreshed every 6h |
+| Fleet liveness | **evidence-based** | health asserted by real checks + streamed to an ops cockpit — never timeout guesswork |
+| Stall recovery | **automatic** | supervised recovery on failure, no human in the loop |
+| AI memory store | **180,000+ memories** | 100% embedding coverage, 60K+ knowledge-graph edges, 1024-dim |
 | Frontend quality gate | **Lighthouse 100** | deploys are blocked below it — a ratchet, not a goal |
-| Products launched | **14** (2026-07-04, one day) | each with payments, auth, and E2E gates |
 
 ## The part worth imagining
 
