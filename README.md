@@ -4,6 +4,12 @@ A production software estate — search engines, evaluation tooling, multi-agent
 
 Everything below is deployed, monitored, and serving real users right now. Case studies, live demos, and engagement details live at **[ark.chakrakali.com](https://ark.chakrakali.com)**.
 
+<p align="center">
+  <a href="https://ark.chakrakali.com"><img src="assets/hero.gif" alt="ark.chakrakali.com: the Chakra estate — a Production AI Systems Engineer portfolio with live case studies, from the hero through service breakdowns" width="100%" /></a>
+</p>
+
+<p align="center"><sub>The estate front door — <a href="https://ark.chakrakali.com">ark.chakrakali.com</a>. Case studies, live demos, engagement details.</sub></p>
+
 ## By the numbers
 
 | Metric | Value | How it's kept honest |
