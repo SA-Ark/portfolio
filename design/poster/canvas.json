@@ -1,58 +1,9 @@
 {
   "artboards": [
-    {
-      "file": "Main.dc.html",
-      "x": 0,
-      "y": 0,
-      "w": 1123,
-      "h": 1587,
-      "title": "Poster — A3",
-      "print": "fixed"
-    },
-    {
-      "file": "DirectionInk.dc.html",
-      "x": 1243,
-      "y": 0,
-      "w": 559,
-      "h": 794,
-      "title": "Direction — Ink (sketch)",
-      "print": "fixed"
-    },
-    {
-      "file": "DirectionSlate.dc.html",
-      "x": 1243,
-      "y": 914,
-      "w": 559,
-      "h": 794,
-      "title": "Direction — Slate (sketch)",
-      "print": "fixed"
-    }
+    { "file": "Main.dc.html", "x": 0, "y": 0, "w": 1123, "h": 1587, "title": "Poster — A3", "print": "fixed" }
   ],
   "annotations": [
-    {
-      "id": "note-main",
-      "x": 0,
-      "y": -150,
-      "w": 559,
-      "text": "Poster — A3 at 96ppi (1123×1587).\nPalette lifted from assets/hero.gif, not invented.\nBracketed fields are real facts I don't have — fill them in."
-    },
-    {
-      "id": "note-ink",
-      "x": 1243,
-      "y": -150,
-      "w": 559,
-      "text": "Ink direction: same structure on paper white.\nUpside: photocopies and grayscales cleanly, drinks no ink.\nTradeoff: loses the estate's dark, screen-native identity."
-    },
-    {
-      "id": "note-slate",
-      "x": 1243,
-      "y": 814,
-      "w": 559,
-      "text": "Slate direction: headline sits INSIDE a 16:9 film frame,\nfan-out becomes a timeline strip below it.\nUpside: unmistakably about video. Tradeoff: the frame eats\nthe headline's scale, so it reads weaker at distance."
-    }
+    { "id": "note-main", "x": 0, "y": -170, "w": 700, "text": "Poster — A3 at 96ppi (1123×1587).\nBuilt against ark-videogen-showcase/public/theme.css: exact token values\n(#0a0a0f ground, the #f472b6→#a78bfa→#818cf8 arc, Inter 800 at -.022em,\n14px radii) and copy lifted from the live site.\nThe example prompt and its caption are sample text, not a real customer." }
   ],
-  "launch": {
-    "view": "focused",
-    "file": "Main.dc.html"
-  }
+  "launch": { "view": "focused", "file": "Main.dc.html" }
 }
