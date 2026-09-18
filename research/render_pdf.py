@@ -12,6 +12,8 @@ from reportlab.platypus import (BaseDocTemplate, PageTemplate, Frame, Paragraph,
                                 Spacer, Table, TableStyle, KeepTogether, HRFlowable)
 
 SRC, OUT = sys.argv[1], sys.argv[2]
+DOC_TITLE  = sys.argv[3] if len(sys.argv) > 3 else None
+DOC_FOOTER = sys.argv[4] if len(sys.argv) > 4 else ""
 
 L = "/usr/share/fonts/truetype/liberation/"
 D = "/usr/share/fonts/truetype/dejavu/"
@@ -101,7 +103,7 @@ def split_row(line):
 def widths(header, ncols, avail):
     h = " ".join(header).lower()
     if ncols == 2:
-        return [1.42*inch, avail - 1.42*inch]
+        return [1.55*inch, avail - 1.55*inch]
     if ncols == 3 and "count" in h:
         return [2.05*inch, 0.62*inch, avail - 2.67*inch]
     if ncols == 3:
@@ -112,7 +114,8 @@ def build_table(rows, avail):
     header, body = rows[0], rows[1:]
     ncols = len(header)
     # "Field | Detail" tables: header is decorative, render as label/value grid
-    fieldstyle = ncols == 2 and header[0].strip("*").lower() == "field"
+    fieldstyle = ncols == 2 and (header[0].strip("*").lower() == "field"
+                                 or not any(c.strip() for c in header))
     data, cmds = [], []
     start = 0
     if not fieldstyle:
@@ -190,25 +193,25 @@ def parse(md, avail):
         flow.append(P(" ".join(buf)))
     return flow
 
-TITLE = "BlueRobins Competitions Page — Verified Candidate List"
+TITLE = DOC_TITLE or "BlueRobins Competitions Page — Verified Candidate List"
 
 def furniture(canv, doc):
     canv.saveState()
     canv.setFont("DJ", 7.2); canv.setFillColor(MUTED)
     canv.drawString(doc.leftMargin, letter[1] - 0.46*inch, TITLE)
-    canv.drawRightString(letter[0] - doc.rightMargin, letter[1] - 0.46*inch, "Compiled 18 September 2026")
+    canv.drawRightString(letter[0] - doc.rightMargin, letter[1] - 0.46*inch, "2026\u201327 season")
     canv.setStrokeColor(RULE); canv.setLineWidth(0.5)
     canv.line(doc.leftMargin, letter[1] - 0.55*inch, letter[0] - doc.rightMargin, letter[1] - 0.55*inch)
     canv.line(doc.leftMargin, 0.58*inch, letter[0] - doc.rightMargin, 0.58*inch)
-    canv.drawString(doc.leftMargin, 0.42*inch, "Internal research — not for publication as written")
+    canv.drawString(doc.leftMargin, 0.42*inch, DOC_FOOTER)
     canv.drawRightString(letter[0] - doc.rightMargin, 0.42*inch, "Page %d" % canv.getPageNumber())
     canv.restoreState()
 
 doc = BaseDocTemplate(OUT, pagesize=letter,
                       leftMargin=0.62*inch, rightMargin=0.62*inch,
                       topMargin=0.72*inch, bottomMargin=0.72*inch,
-                      title=TITLE, author="BlueRobins research",
-                      subject="Verified competition candidate list for the Competitions page")
+                      title=TITLE, author="BlueRobins",
+                      subject="Student competitions field guide, 2026\u201327 season")
 frame = Frame(doc.leftMargin, doc.bottomMargin, doc.width, doc.height, id="main")
 doc.addPageTemplates([PageTemplate(id="p", frames=[frame], onPage=furniture)])
 doc.build(parse(open(SRC).read(), doc.width))
