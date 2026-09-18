@@ -34,14 +34,23 @@ A single human pass opening the URLs before publication would close the gap. The
 
 | Action | Count | Items |
 |---|---|---|
-| Verified, qualifies | 28 | see grade-band sections |
+| **Verified and listed** | 40 | numbered entries 1–40 across the three grade bands |
+| **Dropped at your instruction** | 3 | Odyssey of the Mind · Destination Imagination · Samsung Solve for Tomorrow |
 | **Recommend cut** | 3 | Doodle for Google · NCF-Envirothon · National History Day *for the 3–5 band only* |
-| **Flagged — mentor conflict, your call** | 2 | Odyssey of the Mind · Destination Imagination |
 | **Flagged — fee / certificate screen, your call** | 4 | The Concord Review · GENIUS Olympiad · Blue Ocean · Conrad Challenge |
 | **Flagged — material change to the program** | 1 | FIRST LEGO League (final season) |
+| **Listed but on hold** | 1 | NYT student contests (entry 33 — official URL not verifiable) |
 | Checked, confirmed defunct | 2 | Google Science Fair · Siemens Competition |
-| Checked, could not verify — do not list yet | 2 | Rise (Schmidt Futures/Rhodes) · NYT student contests (URL unverifiable) |
-| **New additions researched and added** | 10 | see "Additions" markers below |
+| Checked, could not verify — not listed | 1 | Rise (Schmidt Futures/Rhodes) |
+| **New additions researched and added** | 10 | see "ADDITION" markers below |
+
+Of the 40 listed entries, 39 are ready to select from; entry 33 (NYT) is listed with a hold on it.
+
+**Dropped at your instruction, recorded so the audit trail is intact:** Odyssey of the Mind and
+Destination Imagination were the two confirmed **mentor-restricted** programs — OM bars outside
+assistance including *suggesting* a direction to the team, and DI bars all interference from
+non-team members. Samsung Solve for Tomorrow was verified and qualifying, but its 2026–27 U.S.
+close date could not be established. None of the three appear anywhere below.
 
 **The single most time-critical item:** Regeneron Science Talent Search closes **8:00 PM ET,
 Thursday 5 November 2026** — about seven weeks out. Any 12th-grade mentee who should apply needs to
@@ -199,41 +208,6 @@ Verified on `nhd.org`.
 
 ---
 
-### ⚠️ FLAGGED — Odyssey of the Mind (mentor conflict confirmed, not dropped)
-
-| Field | Detail |
-|---|---|
-| **Organizing body** | Odyssey of the Mind |
-| **Eligibility** | Primary K–2 (non-competitive, may showcase for feedback); **Division I grades K–5** (under 12 on 1 May); Division II grades 6–8 (under 15); Division III grades 9–12 |
-| **Registration deadline** | Membership purchase, then regional/state tournament dates in late winter–spring |
-| **Total cost** | **National Membership $290** per membership (covers a team; discounted additional memberships for extra teams in the same problem and division), plus materials, plus tournament and travel costs |
-| **Format / artifact** | Multi-month team solution to a long-term problem: performance, device or structure, presented at tournament |
-| **Mentor policy** | 🚩 **mentor-restricted — confirmed conflict.** Organizer rule: teams must create their solutions **without Outside Assistance**. A team may ask someone to *teach* it a skill (e.g. how to sew), but it is Outside Assistance if someone else does the work, **or even suggests to the team that something be done**, or gives a lesson while the team is working. Contribution from more than seven members also counts as Outside Assistance |
-| **Pipeline continuation** | YES — Divisions II and III, same organization |
-| **Official URL** | https://odysseyofthemind.com/ |
-| **The decision you have to make** | The rule bars a BlueRobins mentor from *suggesting a direction* — not merely from doing the work. A normal mentorship relationship is close to incompatible with this rule as written. Options: (a) omit; (b) list with explicit copy that mentoring is limited to teaching skills on request, never steering; (c) list and offer only pre-season skills coaching. **Do not list it with generic "we'll mentor your team" copy** — that would be advising families into a disqualification risk |
-| **Confidence** | **Verified:** the Outside Assistance rule language, the seven-member clause, the $290 membership, all four divisions — from `odysseyofthemind.com`. **Not published in searchable form:** 2026–27 tournament dates |
-
----
-
-### ⚠️ FLAGGED — Destination Imagination (mentor conflict confirmed, not dropped)
-
-| Field | Detail |
-|---|---|
-| **Organizing body** | Destination Imagination, Inc. |
-| **Eligibility** | Teams of 2–7. Five Levels: Early Learning (non-competitive), Elementary, Middle, Secondary, University |
-| **Registration deadline** | 2026–27 Team Numbers: **Early Bird opened 15 May 2026 at $165 through 14 July 2026; $175 from 15 July 2026**. Tournament dates set by affiliate |
-| **Submission deadline** | No file submission — tournament performance |
-| **Total cost** | Team Number **$165–$175**, plus **affiliate fees** (separate, varies), plus materials, plus travel. **Global Finals is a large separate cost: $5,500 per U.S. team / $5,000 per non-U.S. team** in 2026, before travel and lodging |
-| **Format / artifact** | Multi-month team-created solution to a Team Challenge, presented at tournament |
-| **Mentor policy** | 🚩 **mentor-restricted — confirmed conflict.** Organizer rule: **"Absolutely no interference from non-team members is allowed."** The adult Team Manager teaches the creative process and keeps the team on track but **does not assist with or interfere in the team's solution** |
-| **Pipeline continuation** | YES — Middle, Secondary and University Levels, same organization |
-| **Official URL** | https://www.destinationimagination.org/ |
-| **The decision you have to make** | Same shape as Odyssey of the Mind, and the Global Finals fee makes it the most expensive item on this page by a wide margin. If you list it, the Team Manager role is the only honest description of what a BlueRobins mentor could do — and that role is explicitly *not* project mentorship |
-| **Confidence** | **Verified:** interference rule, team size, five Levels, Early Bird pricing and dates, Global Finals fee — from `destinationimagination.org`. **Not verified:** affiliate fee amounts (set per affiliate) |
-
----
-
 # GRADES 6–8
 
 > **Same caveat applies:** middle school results do not appear on a college application. Pipeline
@@ -313,25 +287,7 @@ Verified on `nhd.org`.
 
 ---
 
-### 11. Samsung Solve for Tomorrow (U.S.)
-
-| Field | Detail |
-|---|---|
-| **Organizing body** | Samsung Electronics America |
-| **Eligibility** | Grades 6–12, **publicly funded schools** (charters qualify if ≥50% of operating funds are public). **The application must be submitted by a school employee aged 21+** — students cannot enter directly |
-| **Registration deadline** | 2026–27 applications **opened August 2026**. **Exact close date not published in searchable form on samsung.com/us as of 18 Sep 2026 — verify before publishing** |
-| **Submission deadline** | Staged. Prior-cycle proxy (2025–26, **do not publish as 2026–27**): project video upload window 17 Dec 2025 – **11 Feb 2026, 11:59:59 pm ET**; 10 National Finalists announced ~4 Mar 2026 |
-| **Total cost** | **Free** |
-| **Format / artifact** | Multi-month STEM project addressing a community problem: activity plan, prototype and project video, then a live pitch for finalists |
-| **Mentor policy** | **mentor-required** — teacher-led by rule. Samsung employees additionally mentor advancing teams |
-| **Award** | **$2 million** distributed annually; ~500 U.S. schools recognised; semi-finalist schools receive a **$10,000** Samsung technology package; 10 National Finalists pitch in person and **seven teams earn $50,000** for their schools |
-| **Pipeline continuation** | **YES** — single program spanning 6–12; a middle-school team continues in the same competition |
-| **Official URL** | https://www.samsung.com/us/solvefortomorrow/ |
-| **Confidence** | **Verified:** eligibility including the public-funding and 21+ submitter rules, prize structure, $2M/500-school scale — from `samsung.com/us` and Samsung's U.S. newsroom. **⚠️ Not verified:** the 2026–27 close date. A search for it surfaced the **Philippines** edition of Solve for Tomorrow (deadline 2 Nov 2026, PHP prizes) — **that is a different national program and must not be used for the U.S. page** |
-
----
-
-### 12. Zero Robotics
+### 11. Zero Robotics
 
 | Field | Detail |
 |---|---|
@@ -349,7 +305,7 @@ Verified on `nhd.org`.
 
 ---
 
-### 13. Scholastic Art & Writing Awards
+### 12. Scholastic Art & Writing Awards
 
 | Field | Detail |
 |---|---|
@@ -367,7 +323,7 @@ Verified on `nhd.org`.
 
 ---
 
-### 14. Congressional App Challenge
+### 13. Congressional App Challenge
 
 | Field | Detail |
 |---|---|
@@ -385,7 +341,7 @@ Verified on `nhd.org`.
 
 ---
 
-### 15. C-SPAN StudentCam — **ADDITION**
+### 14. C-SPAN StudentCam — **ADDITION**
 
 | Field | Detail |
 |---|---|
@@ -403,7 +359,7 @@ Verified on `nhd.org`.
 
 ---
 
-### 16. NASA TechRise Student Challenge — **ADDITION**
+### 15. NASA TechRise Student Challenge — **ADDITION**
 
 | Field | Detail |
 |---|---|
@@ -421,7 +377,7 @@ Verified on `nhd.org`.
 
 ---
 
-### 17. Genes in Space — **ADDITION**
+### 16. Genes in Space — **ADDITION**
 
 | Field | Detail |
 |---|---|
@@ -439,7 +395,7 @@ Verified on `nhd.org`.
 
 ---
 
-### 18. The Junior Academy (NY Academy of Sciences) — **ADDITION**
+### 17. The Junior Academy (NY Academy of Sciences) — **ADDITION**
 
 | Field | Detail |
 |---|---|
@@ -461,7 +417,7 @@ Verified on `nhd.org`.
 
 ---
 
-### 19. Regeneron International Science and Engineering Fair (ISEF)
+### 18. Regeneron International Science and Engineering Fair (ISEF)
 
 | Field | Detail |
 |---|---|
@@ -479,7 +435,7 @@ Verified on `nhd.org`.
 
 ---
 
-### 20. Regeneron Science Talent Search (STS) ⏰ **NEAREST MAJOR DEADLINE**
+### 19. Regeneron Science Talent Search (STS) ⏰ **NEAREST MAJOR DEADLINE**
 
 | Field | Detail |
 |---|---|
@@ -496,7 +452,7 @@ Verified on `nhd.org`.
 
 ---
 
-### 21. Junior Science and Humanities Symposium (JSHS)
+### 20. Junior Science and Humanities Symposium (JSHS)
 
 | Field | Detail |
 |---|---|
@@ -513,7 +469,7 @@ Verified on `nhd.org`.
 
 ---
 
-### 22. Davidson Fellows Scholarship
+### 21. Davidson Fellows Scholarship
 
 | Field | Detail |
 |---|---|
@@ -530,7 +486,7 @@ Verified on `nhd.org`.
 
 ---
 
-### 23. MIT THINK Scholars Program
+### 22. MIT THINK Scholars Program
 
 | Field | Detail |
 |---|---|
@@ -548,7 +504,7 @@ Verified on `nhd.org`.
 
 ---
 
-### 24. U.S. Stockholm Junior Water Prize
+### 23. U.S. Stockholm Junior Water Prize
 
 | Field | Detail |
 |---|---|
@@ -565,7 +521,7 @@ Verified on `nhd.org`.
 
 ---
 
-### 25. National History Day
+### 24. National History Day
 
 | Field | Detail |
 |---|---|
@@ -584,7 +540,7 @@ Verified on `nhd.org`.
 
 ---
 
-### 26. Conrad Challenge ⚠️ **cost flag**
+### 25. Conrad Challenge ⚠️ **cost flag**
 
 | Field | Detail |
 |---|---|
@@ -602,7 +558,7 @@ Verified on `nhd.org`.
 
 ---
 
-### 27. Diamond Challenge
+### 26. Diamond Challenge
 
 | Field | Detail |
 |---|---|
@@ -620,7 +576,7 @@ Verified on `nhd.org`.
 
 ---
 
-### 28. Blue Ocean Student Entrepreneur Competition ⚠️ **certificate flag**
+### 27. Blue Ocean Student Entrepreneur Competition ⚠️ **certificate flag**
 
 | Field | Detail |
 |---|---|
@@ -638,7 +594,7 @@ Verified on `nhd.org`.
 
 ---
 
-### 29. NFTE World Series of Innovation (9–12 tier)
+### 28. NFTE World Series of Innovation (9–12 tier)
 
 See the full entry under Grades 3–5 (**#5**) — one program, ages 5–24. For this band the relevant tier
 is the **Impact League (ages 13–24)**. Submission **13 December 2026** *(confirm 12 vs 13)*; free;
@@ -647,7 +603,7 @@ https://innovation.nfte.com/
 
 ---
 
-### 30. Breakthrough Junior Challenge ⏳ **cycle just closed**
+### 29. Breakthrough Junior Challenge ⏳ **cycle just closed**
 
 | Field | Detail |
 |---|---|
@@ -665,7 +621,7 @@ https://innovation.nfte.com/
 
 ---
 
-### 31. Bow Seat Ocean Awareness Contest
+### 30. Bow Seat Ocean Awareness Contest
 
 | Field | Detail |
 |---|---|
@@ -682,7 +638,7 @@ https://innovation.nfte.com/
 
 ---
 
-### 32. John F. Kennedy Profile in Courage Essay Contest
+### 31. John F. Kennedy Profile in Courage Essay Contest
 
 | Field | Detail |
 |---|---|
@@ -700,7 +656,7 @@ https://innovation.nfte.com/
 
 ---
 
-### 33. The Concord Review ⚠️ **fee flag — your call**
+### 32. The Concord Review ⚠️ **fee flag — your call**
 
 | Field | Detail |
 |---|---|
@@ -718,7 +674,7 @@ https://innovation.nfte.com/
 
 ---
 
-### 34. New York Times student contests ⚠️ **cannot verify — do not list yet**
+### 33. New York Times student contests ⚠️ **cannot verify — do not list yet**
 
 | Field | Detail |
 |---|---|
@@ -731,7 +687,7 @@ https://innovation.nfte.com/
 
 ---
 
-### 35. All American High School Film Festival
+### 34. All American High School Film Festival
 
 | Field | Detail |
 |---|---|
@@ -749,7 +705,7 @@ https://innovation.nfte.com/
 
 ---
 
-### 36. FIRST Robotics Competition / FIRST Tech Challenge
+### 35. FIRST Robotics Competition / FIRST Tech Challenge
 
 | Field | Detail |
 |---|---|
@@ -766,7 +722,7 @@ https://innovation.nfte.com/
 
 ---
 
-### 37. GENIUS Olympiad ⚠️ **fee flag**
+### 36. GENIUS Olympiad ⚠️ **fee flag**
 
 | Field | Detail |
 |---|---|
@@ -784,7 +740,7 @@ https://innovation.nfte.com/
 
 ---
 
-### 38. Lemelson-MIT InvenTeams — **ADDITION**
+### 37. Lemelson-MIT InvenTeams — **ADDITION**
 
 | Field | Detail |
 |---|---|
@@ -802,7 +758,7 @@ https://innovation.nfte.com/
 
 ---
 
-### 39. World Food Prize Youth Institutes / Global Youth Institute — **ADDITION**
+### 38. World Food Prize Youth Institutes / Global Youth Institute — **ADDITION**
 
 | Field | Detail |
 |---|---|
@@ -820,7 +776,7 @@ https://innovation.nfte.com/
 
 ---
 
-### 40. Modeling the Future Challenge — **ADDITION**
+### 39. Modeling the Future Challenge — **ADDITION**
 
 | Field | Detail |
 |---|---|
@@ -838,7 +794,7 @@ https://innovation.nfte.com/
 
 ---
 
-### 41. YoungArts National Arts Competition — **ADDITION**
+### 40. YoungArts National Arts Competition — **ADDITION**
 
 | Field | Detail |
 |---|---|
@@ -884,7 +840,7 @@ precisely why the check was worth doing.
 | Program | Problem |
 |---|---|
 | **Rise (Schmidt Futures + Rhodes Trust)** | A strong fit on paper: ages 15–17, project/video portfolio submission, and an award consisting of **need-based scholarships, mentorship, career development and ongoing funding** — close to ideal for this page. **But:** the most recent application cycle documented on `risefortheworld.org` itself is the 2023–24 cycle. No 2026 or 2026–27 cycle surfaced on the organizer's own site. Schmidt Futures has since reorganised. **Treat as possibly dormant. Do not list until a current cycle is confirmed.** https://www.risefortheworld.org/ |
-| **NYT student contests** | See entry #34. `nytimes.com` blocks our crawler entirely; all available lineup detail is aggregator-sourced and the official URL could not be confirmed |
+| **NYT student contests** | See entry #33. `nytimes.com` blocks our crawler entirely; all available lineup detail is aggregator-sourced and the official URL could not be confirmed |
 
 ---
 
@@ -911,21 +867,21 @@ gaps found: Congressional App Challenge (register from 1 May, submit 26 Oct), NA
 Nationals in June), and the whole ISEF pathway, where the binding constraint is that **approval
 paperwork must be completed before research even begins** — many months ahead of any fair date.
 
-**3. Six programs have no 2027 dates published yet.** Technovation, Davidson Fellows, MIT THINK,
-Stockholm Junior Water Prize, 3M Young Scientist Challenge, Genes in Space, plus Samsung's U.S. close
-date and Zero Robotics' 2027 season. Build the page so a date cell can read "opens [month], date TBA"
+**3. Seven listed programs have no 2027 dates published yet.** Technovation, Davidson Fellows,
+MIT THINK, Stockholm Junior Water Prize, 3M Young Scientist Challenge, Genes in Space and Zero
+Robotics' 2027 season. Build the page so a date cell can read "opens [month], date TBA"
 rather than silently carrying last year's date — that stale-date failure is exactly what makes
 aggregator round-ups untrustworthy, and it would be worse coming from us.
 
 **4. Mentor policy summary.**
 
-- **mentor-required (14):** ExploraVision · eCYBERMISSION · Future City · Samsung Solve for Tomorrow ·
-  NASA TechRise · Genes in Space · The Junior Academy · MIT THINK · JFK Profile in Courage ·
-  Lemelson-MIT InvenTeams · World Food Prize · FIRST (FLL/FTC/FRC) · Conrad Challenge ·
-  3M YSC (finalist stage)
-- **mentor-permitted (majority):** everything else listed
-- **mentor-restricted (2):** Odyssey of the Mind · Destination Imagination — both confirmed, both
-  flagged rather than dropped, as you asked
+- **mentor-required (13):** ExploraVision · eCYBERMISSION · Future City · NASA TechRise ·
+  Genes in Space · The Junior Academy · MIT THINK · JFK Profile in Courage · Lemelson-MIT
+  InvenTeams · World Food Prize · FIRST (FLL/FTC/FRC) · Conrad Challenge · 3M YSC (finalist stage)
+- **mentor-permitted (all others listed):** every remaining entry
+- **mentor-restricted:** none remain. The two confirmed conflicts, Odyssey of the Mind and
+  Destination Imagination, were dropped at your instruction. Nothing on this list now carries an
+  outside-assistance rule that a BlueRobins mentor would breach
 
 **5. The best structural fits for a mentor handoff**, if you want a shortlist to build the page
 around: **MIT THINK** (the award *is* mentorship and funding for a project the student can't yet
@@ -943,12 +899,11 @@ funded).
 2. Resolve the six **LOW CONFIDENCE** cells: FIRST fee amounts · GENIUS Olympiad fees · Concord Review
    fee · YoungArts application fee · AAHSFF standard entry fee · NASA TechRise dates on the
    organizer's own page.
-3. Get the Samsung Solve for Tomorrow **U.S.** close date — and do not let the Philippines edition's
-   2 November date reach the page.
-4. Confirm NFTE: 12 or 13 December.
-5. Confirm the JFK Profile in Courage submission deadline (source text was incomplete).
-6. Visit the NYT Learning Network contest calendar directly and decide whether to list specific
-   contests.
-7. Decide the four flagged fee/certificate cases and the two mentor-restricted cases.
-8. Re-check Zero Robotics in early October — its 2027 high school registration historically opens
+3. Confirm NFTE: 12 or 13 December.
+4. Confirm the JFK Profile in Courage submission deadline (source text was incomplete).
+5. Visit the NYT Learning Network contest calendar directly and decide whether to list specific
+   contests (entry 33).
+6. Decide the four flagged fee/certificate cases: The Concord Review · GENIUS Olympiad · Blue Ocean ·
+   Conrad Challenge.
+7. Re-check Zero Robotics in early October — its 2027 high school registration historically opens
    1 October.
